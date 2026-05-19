@@ -1,0 +1,24 @@
+{
+  "name": "newnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenthuhuyen04/newNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nguyenthuhuyen04/newNode/issues"
+  },
+  "homepage": "https://github.com/nguyenthuhuyen04/newNode#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
